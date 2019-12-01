@@ -16,7 +16,7 @@ potions = 0
 
 
 
-enemies = ('Goblin', 'Skeleton', 'Orc', 'Witch', 'Demon', 'Necromancer', 'Giant Spider', 'Ghoul')
+enemies = ('Goblin', 'Skeleton', 'Orc', 'Witch', 'Demon', 'Necromancer', 'Giant Spider', 'Ghoul', 'Zombie', 'Wolf', 'Cannibal', 'Vampire', 'Mummy', 'Grizzly Bear')
 choices = ['> MOVE', '> STATUS', '> USE POTION', '> QUIT']
 encounter = ['> ATTACK', '> DEFEND', '> RUN', '> USE POTION', '> STATUS']
 
